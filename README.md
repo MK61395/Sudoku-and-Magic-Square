@@ -93,9 +93,4 @@ The notebook prints the solved magic square puzzle if a solution is found, or in
 - Python 3.x
 - Jupyter Notebook
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/optimization-search-algorithms.git
 
